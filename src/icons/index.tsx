@@ -42,7 +42,6 @@ import TaskIcon from "./task-icon.svg";
 import ListIcon from "./list.svg";
 import TableIcon from "./table.svg";
 import PageIcon from "./page.svg";
-import PieChartIcon from "./pie-chart.svg";
 import BoxCubeIcon from "./box-cube.svg";
 import PlugInIcon from "./plug-in.svg";
 import DocsIcon from "./docs.svg";
@@ -98,7 +97,6 @@ export {
   TableIcon,
   PageIcon,
   TaskIcon,
-  PieChartIcon,
   BoxCubeIcon,
   PlugInIcon,
   DocsIcon,

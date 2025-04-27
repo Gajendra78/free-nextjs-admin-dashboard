@@ -88,7 +88,7 @@ All components are built with React and styled using Tailwind CSS for easy custo
 - Community support
 
 ### Pro Version
-- 5 Unique Dashboards: Analytics, Ecommerce, Marketing, CRM, Stocks (more coming soon)
+- 5 Unique Dashboards: Analytics, ecommerce, Marketing, CRM, Stocks (more coming soon)
 - 400+ dashboard components and UI elements
 - Complete Figma design file
 - Email support
